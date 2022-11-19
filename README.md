@@ -1,4 +1,4 @@
-# onflict-resolution
+# Conflict-resolution
 
 
 ## This is a subheading merge conflict resolution 
